@@ -1,0 +1,22 @@
+*{
+ 	box-sizing: border-box;
+ 	margin: 0;
+ 	padding: 0;
+ }
+ #header-nav {
+ 	background:#c3b5c4;
+ 	color: black;
+ }
+ .navbar-brand a{
+ 	text-decoration: none;
+ }
+ #nav-list a:hover {
+ 	background: white;
+ 	color: black;
+ }
+ #ourmenu {
+ 	background: grey;
+ 	color: black;
+ 	border: 2px solid black;
+ 	height: 1000px;
+ }
